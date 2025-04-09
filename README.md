@@ -1,75 +1,65 @@
 <h1 align="center">✨ Chào mừng đến với GitHub của Buddha-39797 ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=🧠+Lập+trình+nhí+11+tuổi;🎮+Fan+cứng+PvZ;🔥+Top+11+OwO+Cowoncy;💻+Chăm+push+code+mỗi+ngày" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=🌱+Mình+đang+học+và+phát+triển+mỗi+ngày;🚀+Đam+mê+code+và+game+PvZ;⚡+Làm+những+dự+án+siêu+vui;🌌+Fork+vũ+trụ+luôn+cho+chất" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍🚀 Giới thiệu nhanh
-
-- 🎓 Mình là học sinh lớp 5 đang học lập trình và khám phá GitHub.
-- 🧠 Sở thích: PvZ, custom game, lập trình, dùng Markdown cho đẹp.
-- 🏅 Hiện tại có hơn **310,000+ Cowoncy** trên OwO Bot và đang **top 11 server** "Hầm ngục tối tăm".
-- 📁 Repo nổi bật: `PVZRHCustomization` (mod PvZ cực chất!)
+## 🎯 Vài điều về mình
+- 🧠 Học sinh lớp 5, thích công nghệ
+- 🎮 Game yêu thích: Plants vs Zombies
+- 💻 Máy dùng: Laptop Acer + Windows 11
+- 🛡️ Thành viên server Discord **Hầm ngục tối tăm**
+- 🐄 Cowoncy hiện tại: **310,432**, đứng thứ 11 server!
 
 ---
 
-## 🔥 Thống kê GitHub
+## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buddha-39797&show_icons=true&theme=tokyonight&count_private=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Buddha-39797&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Buddha-39797&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
 </p>
-
----
-
-## 💻 Ngôn ngữ sử dụng nhiều
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddha-39797&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buddha-39797&theme=radical" alt="Streak" />
 </p>
-
----
-
-## 📌 Dự án nổi bật
-
-| Tên Repo | Mô tả | Link |
-|----------|-------|------|
-| 🧟‍♂️ PVZRHCustomization | Mod PvZ Rehydrated cực đỉnh do mình tùy chỉnh | 👉 [Xem repo](https://github.com/Buddha-39797/PVZRHCustomization) |
-
----
-
-## 🌟 Huy hiệu & Thành tựu
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Class-5-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Top%2011%20Cowoncy-Hầm%20ngục%20tối%20tăm-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fan%20PvZ-💀🧟-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dev%20tập%20sự-🔥-orange?style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddha-39797&layout=compact&theme=radical" alt="Languages" />
 </p>
 
 ---
 
-## 💬 Quote yêu thích
+## 📦 Các dự án mình làm
 
-> “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> — *Harold Abelson*
+| 📁 Tên Dự Án | 🔥 Mô Tả | 🚀 Link |
+|-------------|----------|--------|
+| PVZRHCustomization | Tùy biến Plants vs Zombies Reflashed | [Xem ngay](https://github.com/Buddha-39797/PVZRHCustomization) |
+| 🧪 Demo-Owo-Stuff | Mô phỏng OwO Bot trên web | *(sắp ra mắt)* |
 
 ---
 
-## 📫 Liên hệ với mình
+## 🛠️ Công cụ mình đang dùng
 
-- 🌐 [Server OwO Bot "Hầm ngục tối tăm"](https://owobot.gg/hgtm)
-- 📧 Đang phát triển phần liên hệ...
+![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github)
+![Windows](https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows11)
+
+---
+
+## 💬 Liên hệ với mình
+
+<p align="center">
+  <a href="https://discord.gg/hgtm">
+    <img src="https://img.shields.io/badge/Discord-Hầm_ngục_tối_tăm-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation">
 </p>
 
-<p align="center">
-  Cảm ơn bạn đã ghé thăm GitHub của mình! ⭐  
-</p>
+<p align="center"><b>💖 Cảm ơn bạn đã ghé thăm! Đừng quên thả sao ⭐ nếu bạn thích nhé!</b></p>
