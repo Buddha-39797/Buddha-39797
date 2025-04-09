@@ -9,10 +9,6 @@
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Buddha-39797&theme=dracula&no-bg=true&no-frame=true" />
-</p>
-
 ---
 
 ## 🎮 Ai đây? Chính là mình nè!
@@ -21,14 +17,6 @@
 - 🔧 Fork mọi repo PvZ nhìn thấy
 - 🐄 310,432 Cowoncy – top 11 server "Hầm ngục tối tăm"  
 - 🤖 Fan cuồng OwO Bot & code automation
-- 🧠 Tự học lập trình từ số 0 chỉ với niềm đam mê và Google
-
----
-
-## 🧠 Quote chất lượng
-
-> “Trẻ em cũng có thể lập trình ra thế giới!” – *Buddha-39797*  
-> “Mod PvZ là đam mê, còn git push là thở” – *Bro said that*
 
 ---
 
@@ -38,6 +26,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Buddha-39797&show_icons=true&theme=dracula&rank_icon=percentile&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddha-39797&layout=donut&theme=dracula" />
 </p>
+
+---
+
+## 🔮 Tính cách qua badge
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tính cách-Đam mê 🌟-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sức mạnh-Meme 100%-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kỹ năng-Code+PvZ-green?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 Quote chất lượng
+
+> “Trẻ em cũng có thể lập trình ra thế giới!” – *Buddha-39797*  
+> “Mod PvZ là đam mê, còn git push là thở” – *Bro said that*
 
 ---
 
@@ -69,7 +74,7 @@
 🌿 PvZ Modding:      ██████████░ 95%
 ⚙️ Git/GitHub:        ██████░░░░░ 60%
 🧩 Meme Power:        ██████████ 100%
-🚀 Automation OwO:    ██████░░░░░ 60%
+🎨 Sáng tạo Markdown: ████████░░░ 80%
 ```
 
 ---
@@ -83,10 +88,11 @@ timeline
     2025 : Top 11 OwO Bot - 310k Cowoncy
     2025 : Tạo PvZ Meme Edition
     2026 : Tự tay viết OwO auto-bot
-    2027 : Mod lại PvZ thành RPG phiêu lưu
+```
+
 ---
 
-## 🎨 Fan art
+## 🎨 Fan art yêu thích
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
