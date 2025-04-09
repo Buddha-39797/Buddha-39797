@@ -84,20 +84,6 @@ timeline
     2025 : Tạo PvZ Meme Edition
     2026 : Tự tay viết OwO auto-bot
     2027 : Mod lại PvZ thành RPG phiêu lưu
-```
-
----
-
-## 🐍 Snake ăn commit (hiệu ứng động)
-
-> 🔥 Nếu muốn dùng cái này, cần bật GitHub Actions! Tui sẵn sàng giúp bro setup nếu cần!
-
-```html
-<p align="center">
-  <img src="https://github.com/Buddha-39797/Buddha-39797/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-```
-
 ---
 
 ## 🎨 Fan art
