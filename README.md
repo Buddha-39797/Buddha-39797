@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Buddha-39797&theme=dracula&no-bg=true&no-frame=true" />
+</p>
+
 ---
 
 ## 🎮 Ai đây? Chính là mình nè!
@@ -17,6 +21,14 @@
 - 🔧 Fork mọi repo PvZ nhìn thấy
 - 🐄 310,432 Cowoncy – top 11 server "Hầm ngục tối tăm"  
 - 🤖 Fan cuồng OwO Bot & code automation
+- 🧠 Tự học lập trình từ số 0 chỉ với niềm đam mê và Google
+
+---
+
+## 🧠 Quote chất lượng
+
+> “Trẻ em cũng có thể lập trình ra thế giới!” – *Buddha-39797*  
+> “Mod PvZ là đam mê, còn git push là thở” – *Bro said that*
 
 ---
 
@@ -26,14 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Buddha-39797&show_icons=true&theme=dracula&rank_icon=percentile&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddha-39797&layout=donut&theme=dracula" />
 </p>
-
----
-
-## 🧠 Quote chất lượng
-
-> “Trẻ em cũng có thể lập trình ra thế giới!” – *Buddha-39797*
-
-> “Mod PvZ là đam mê, còn git push là thở” – *Bro said that*
 
 ---
 
@@ -65,6 +69,7 @@
 🌿 PvZ Modding:      ██████████░ 95%
 ⚙️ Git/GitHub:        ██████░░░░░ 60%
 🧩 Meme Power:        ██████████ 100%
+🚀 Automation OwO:    ██████░░░░░ 60%
 ```
 
 ---
@@ -78,6 +83,19 @@ timeline
     2025 : Top 11 OwO Bot - 310k Cowoncy
     2025 : Tạo PvZ Meme Edition
     2026 : Tự tay viết OwO auto-bot
+    2027 : Mod lại PvZ thành RPG phiêu lưu
+```
+
+---
+
+## 🐍 Snake ăn commit (hiệu ứng động)
+
+> 🔥 Nếu muốn dùng cái này, cần bật GitHub Actions! Tui sẵn sàng giúp bro setup nếu cần!
+
+```html
+<p align="center">
+  <img src="https://github.com/Buddha-39797/Buddha-39797/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 ```
 
 ---
@@ -95,7 +113,7 @@ timeline
 
 <p align="center">
   <a href="https://discord.gg/tdqznfah3s"><img src="https://img.shields.io/badge/Discord-Hầm_ngục_tối_tăm-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="nguyenminhhuykt2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-BuddhaMail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nguyenminhhuykt2014@gmail.com"><img src="https://img.shields.io/badge/Gmail-BuddhaMail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
