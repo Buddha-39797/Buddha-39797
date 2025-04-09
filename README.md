@@ -1,8 +1,13 @@
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-buddha.vercel.app/api?username=Buddha-39797&show_icons=true&theme=tokyonight&count_private=true" />
+<h1 align="center">🌟 Buddha-39797: Siêu cấp GitHub Thống Kê 🌟</h1>
 
-<!-- Top Langs -->
-<img src="https://github-readme-stats-buddha.vercel.app/api/top-langs/?username=Buddha-39797&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Buddha-39797&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
 
-<!-- Streak (mirror khác) -->
-<img src="https://streak-stats.demolab.com?user=Buddha-39797&theme=tokyonight&fire=FF6A00&ring=FFB000&currStreakLabel=FF6A00" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddha-39797&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buddha-39797&theme=tokyonight" alt="GitHub Streak" />
+</p>
