@@ -24,7 +24,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Buddha-39797&show_icons=true&theme=dracula&rank_icon=percentile&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Buddha-39797&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddha-39797&layout=donut&theme=dracula" />
 </p>
 
