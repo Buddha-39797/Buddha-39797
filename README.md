@@ -10,5 +10,4 @@
 
 <p align="center">
   <img src="<img src="https://github-streak-buddha.vercel.app/?user=Buddha-39797&theme=tokyonight" alt="GitHub Streak" />
- />
 </p>
