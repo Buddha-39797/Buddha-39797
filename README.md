@@ -9,5 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buddha-39797&theme=tokyonight" alt="GitHub Streak" />
+  <img src="<img src="https://github-streak-buddha.vercel.app/?user=Buddha-39797&theme=tokyonight" alt="GitHub Streak" />
+ />
 </p>
