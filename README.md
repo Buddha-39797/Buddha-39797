@@ -50,7 +50,7 @@
 | 💾 Repo | 🔥 Mô tả | 📎 Link |
 |--------|---------|--------|
 | PVZRHCustomization | Tùy biến PvZ Reflashed với skin mới, zombies troll, chế độ khủng | [Xem ngay](https://github.com/Buddha-39797/PVZRHCustomization) |
-| PvZ-Meme-Edition | PvZ phiên bản meme điên rồ 😆 | *(Coming soon)* |
+| PVZ-Menu-Cheat | Đây là Cheat cho Plants Vs Zombie Fusion sẽ sửa đổi bộ nhớ của trò chơi cho các tính năng của nó. Nó được mã hóa hoàn toàn bằng C++. 😆 | https://github.com/Buddha-39797/PVZ-Menu-Cheat |
 | OwO-Bot-Trainer | Tool luyện Cowoncy | *(Coming soon)* |
 
 ---
