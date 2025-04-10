@@ -1,0 +1,64 @@
+# 🚀 .editorconfig Ultimate Edition - bởi Buddha-39797
+
+# Dùng file này làm gốc, override toàn repo
+root = true
+
+[*]
+charset = utf-8               # Dùng UTF-8 toàn cõi
+indent_style = space          # Tab là quá khứ, space là chân ái
+indent_size = 2               # Nhỏ gọn, dễ nhìn
+end_of_line = lf              # Dùng LF cho chuẩn Unix
+insert_final_newline = true   # Thêm dòng trống ở cuối file (cho Git dễ diff)
+trim_trailing_whitespace = true  # Xoá khoảng trắng thừa
+
+# 📄 Markdown cần giữ khoảng trắng
+[*.md]
+trim_trailing_whitespace = false
+
+# 🐍 Python cần 4 space
+[*.py]
+indent_size = 4
+
+# ⚙️ C/C++ cũng 4 space cho dễ đọc
+[*.cpp]
+indent_size = 4
+
+[*.h]
+indent_size = 4
+
+# 🧪 JSON dùng 2 space để dễ parse
+[*.json]
+indent_size = 2
+
+# 🧾 YAML strict theo chuẩn
+[*.yml]
+indent_size = 2
+
+[*.yaml]
+indent_size = 2
+
+# 🌐 HTML, JS, TS đồng bộ
+[*.html]
+indent_size = 2
+
+[*.js]
+indent_size = 2
+
+[*.ts]
+indent_size = 2
+
+# 📜 CSS nhẹ nhàng, dễ nhìn
+[*.css]
+indent_size = 2
+
+# 🖥 Batch file dành riêng cho Windows
+[*.bat]
+end_of_line = crlf
+
+# ⚠️ Makefile chỉ chấp nhận tab
+[Makefile]
+indent_style = tab
+
+# 🧪 Tùy chỉnh cho shell script
+[*.sh]
+indent_size = 2
