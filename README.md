@@ -47,13 +47,42 @@
 
 ## 🔥 Dự án nổi bật
 
-| 💾 Repo | 🔥 Mô tả | 📎 Link |
-|--------|---------|--------|
-| PVZRHCustomization | Thêm các Mod plants mới và được làm bởi Infinite75 | [Xem ngay](https://github.com/Buddha-39797/PVZRHCustomization) |
-| PVZ-Menu-Cheat | Đây là Cheat cho Plants Vs Zombie Fusion sẽ sửa đổi bộ nhớ của trò chơi cho các tính năng của nó. Nó được mã hóa hoàn toàn bằng C++ được làm bởi yurikia. 😝 | [Xem ngay](https://github.com/Buddha-39797/PVZ-Menu-Cheat) |
-| PVZRH-Tools | Tools để chơi PvZ Fusion cho dễ hơn được làm bởi Infinite75 | [Xem ngay](https://github.com/Buddha-39797/PVZRHTools) |
-| PvZRHModified | Đây là một cái mod menu giúp các bạn dễ chơi hơn và làm được đủ thứ trò trong PvZRH Fusion và được làm bởi LibraHp 😆 | [Xem ngay](https://github.com/Buddha-39797/PvZRHModfied) |
-| PvZRH-Fusion-Plants-Zombies-And-Hammers-Fanmade | Tổng hợp tất cả các plants, zombies và búa Fam made được làm cho PvZRH Fusion | 🔒 <span style="color:orange"><strong>Coming soon...</strong></span> 🧠
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th>💾 <strong>Repo</strong></th>
+      <th>🔥 <strong>Mô tả</strong></th>
+      <th>🔗 <strong>Link</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>PVZRHCustomization</strong></td>
+      <td>Thêm các Mod plants mới và được làm bởi <strong>Infinite75</strong>.</td>
+      <td><a href="https://github.com/Buddha-39797/PVZRHCustomization">🔎 Xem ngay</a></td>
+    </tr>
+    <tr>
+      <td><strong>PVZ-Menu-Cheat</strong></td>
+      <td>Cheat cho PvZ Fusion: sửa bộ nhớ trò chơi để mở tính năng ẩn, viết bằng C++ bởi <strong>yurikia</strong>. 😝</td>
+      <td><a href="https://github.com/Buddha-39797/PVZ-Menu-Cheat">🔎 Xem ngay</a></td>
+    </tr>
+    <tr>
+      <td><strong>PVZRH-Tools</strong></td>
+      <td>Tools hỗ trợ chơi PvZ Fusion dễ hơn, made by <strong>Infinite75</strong>.</td>
+      <td><a href="https://github.com/Buddha-39797/PVZRH-Tools">🔎 Xem ngay</a></td>
+    </tr>
+    <tr>
+      <td><strong>PvZRHModified</strong></td>
+      <td>Mod menu giúp unlock nhiều thứ hay ho trong PvZRH Fusion, code bởi <strong>LibraHp</strong>. 🤩</td>
+      <td><a href="https://github.com/Buddha-39797/PvZRHModified">🔎 Xem ngay</a></td>
+    </tr>
+    <tr>
+      <td><strong>PvZRH-Fusion-Plants-Zombies-And-Hammers-Fanmade</strong></td>
+      <td>Tổng hợp các plants, zombies và búa fanmade cực chất cho PvZRH Fusion.</td>
+      <td>🔒 <strong>Coming soon...</strong> 🧠<br><sub><i>Project đang được Buddha ủ mưu cực mạnh 😤</i></sub></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
