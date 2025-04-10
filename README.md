@@ -53,7 +53,7 @@
 | PVZ-Menu-Cheat | Đây là Cheat cho Plants Vs Zombie Fusion sẽ sửa đổi bộ nhớ của trò chơi cho các tính năng của nó. Nó được mã hóa hoàn toàn bằng C++ được làm bởi yurikia. 😝 | [Xem ngay](https://github.com/Buddha-39797/PVZ-Menu-Cheat) |
 | PVZRH-Tools | Tools để chơi PvZ Fusion cho dễ hơn được làm bởi Infinite75 | [Xem ngay](https://github.com/Buddha-39797/PVZRHTools) |
 | PvZRHModified | Đây là một cái mod menu giúp các bạn dễ chơi hơn và làm được đủ thứ trò trong PvZRH Fusion và được làm bởi LibraHp 😆 | [Xem ngay](https://github.com/Buddha-39797/PvZRHModfied) |
-| PvZRH-Fusion-Plants-Zombies-And-Hammers-Fanmade | Tổng hợp tất cả các plants, zombies và búa Fam made được làm cho PvZRH Fusion | (*coming soon*)
+| PvZRH-Fusion-Plants-Zombies-And-Hammers-Fanmade | Tổng hợp tất cả các plants, zombies và búa Fam made được làm cho PvZRH Fusion | ( *coming soon* )
 
 ---
 
