@@ -1,176 +1,270 @@
 ###########################################################
-# 🌿 PvZ Modding & Game Mod Frameworks (MelonLoader/BepInEx)
+# 🚀 THE ULTIMATE .GITIGNORE - by Buddha-39797
+# 🔥 Dành cho người làm mod PvZ, bot OwO, web dev, AI dev, game dev, vũ trụ dev
+# ✨ Không chỉ ignore, mà còn truyền cảm hứng code tới mọi hành tinh
 ###########################################################
 
-# Các thư mục mặc định của MelonLoader
+########### 🌱 PvZ Modder Specific ###########
+
+# Thư mục mod phổ biến (MelonLoader, BepInEx, v.v.)
 MelonLoader/
 Mods/
+Plugins/
 UserData/
 Logs/
 Il2Cpp/
 mono/
-Plugins/
-version.dll
 doorstop_config.ini
-
-# BepInEx
-BepInEx/
-BepInEx.cfg
+version.dll
 winhttp.dll
 
-# Game log/cache
+# File log – nơi chứa những bí mật dơ dáy mà bạn không nên push
 *.log
 *.bak
-*.tmp
-
-# File tự động sinh ra khi chạy mod/game
 *.old
-*.lock
+*.tmp
+*.temp
+
+# Các file `.dll`, `.exe`, `.pdb` thường là bản biên dịch, đừng push
+*.dll
+*.exe
+*.pdb
 *.mdb
-*.pdb
-*.exe
-*.dll
-
-###########################################################
-# 🪟 Windows hệ thống rác
-###########################################################
-
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-
-###########################################################
-# 🛠 Visual Studio & .NET (thường dùng để mod PvZ)
-###########################################################
-
-# Project rác
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-*.sdf
-*.cache
-*.dbmdl
-*.vssscc
-*.vspscc
-*.ncb
-*.aps
 *.ilk
-*.pdb
+*.bin
 
-# Build output
-bin/
-obj/
-Debug/
-Release/
-*.dll
-*.exe
-*.lib
+# Lưu ý: nếu bạn đang mod PvZ bằng cách lén mod game, đừng để người ta biết 🤫
 
-# VS Code
-.vscode/
+########### 🧪 Python ###########
 
-# Thư mục ẩn của Visual Studio
-.vs/
-
-###########################################################
-# 🐍 Python (nếu xài automation tools hoặc script bot)
-###########################################################
-
+# Pycache = ký ức tạm thời của python, không cần lưu
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
-*.env
-.env
+
+# Venv = môi trường ảo để chơi trò 'không ảnh hưởng môi trường thật'
 .venv/
+env/
 venv/
-*.db
+ENV/
+*.env
+.env.*
+
+# SQLite DB, thường chứa dữ liệu test hoặc bot
 *.sqlite3
+*.db
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# Jupyter Notebook Checkpoints – như save state của bạn
+.ipynb_checkpoints/
 
-###########################################################
-# 🌐 Node.js / Web (nếu có website/mod frontend)
-###########################################################
+########### 🕸 NodeJS / Web Dev ###########
 
-node_modules/
+node_modules/        # Nặng hơn trái tim khi bị từ chối pull request
 dist/
 build/
+.cache/
+.nyc_output/
+coverage/
+out/
+.vite/
+.vitepress/
+
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-*.tgz
-.pnpm-debug.log*
+pnpm-debug.log*
 
-###########################################################
-# ☕ Java (ít dùng cho PvZ nhưng cứ backup cho chắc)
-###########################################################
+package-lock.json
+yarn.lock
+
+########### 💻 Visual Studio / C# / .NET ###########
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.ncb
+*.pdb
+*.ilk
+
+# Output folders
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.dll
+
+# VS code workspace config
+.vscode/
+*.code-workspace
+
+# Visual Studio folder
+.vs/
+
+########### 📦 Java ###########
 
 *.class
 *.jar
 *.war
 *.ear
 *.iml
-*.classpath
 *.project
-*.settings/
+*.classpath
+.settings/
 
-###########################################################
-# 📁 File hệ thống, cache và tạm thời
-###########################################################
+########### 🎮 Unity ###########
 
-*.swp
-*.swo
-*.tmp
-*.temp
-*.bak
-*.backup
-*.old
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+UserSettings/
+MemoryCaptures/
+*.csproj
+*.sln
 
-###########################################################
-# 🧪 Miscellaneous (đủ thể loại khác nhau)
-###########################################################
+########### 🦄 Unreal Engine ###########
 
-*.orig        # file bị xung đột merge
-*.rej         # patch bị reject
-*.sublime-workspace
-*.sublime-project
+*.sln
+*.sdf
+*.opensdf
+*.xcodeproj
+.vscode/
+.vs/
 
-# Secret/Token
+########### 🧠 AI / Machine Learning ###########
+
+*.ckpt
+*.h5
+*.tflite
+*.pt
+*.pth
+*.onnx
+*.pb
+*.weights
+wandb/
+*.log
+logs/
+tensorboard/
+
+########### 📂 Discord Bot / Automation ###########
+
+owo_logs/
+cowoncy_backup/
+owo_bot_output/
+*.session
+*.cache
+*.db
+*.db.lock
+__pycache__/
+config.json
+auth.json
+token.txt
 *.pem
-*.key
-*.crt
-*.secret
-*.token
-*.env.local
 
-###########################################################
-# 🖼 Thiết kế, ảnh test, đồ họa (nếu làm meme PvZ)
-###########################################################
+########### 🖼 Media / Design ###########
 
 *.psd
+*.ai
 *.xcf
-*.blend1
-*.kra~
+*.kra
 *.svg~
 *.png~
 *.jpg~
-.idea/
-*.ai
-*.eps
+*.jpeg~
+*.blend1
+*.swatches
+
+########### 📦 Archive / Compression ###########
+
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.gz
+*.xz
+
+########### 🔐 Secrets / Private ###########
+
+*.pem
+*.key
+*.crt
+*.cert
+*.env
+.env.*
+.secret.*
+*.token
+credentials.json
+token.json
+*.bak
+
+########### 💥 Common backup, temp ###########
+
+*.bak
+*.tmp
+*.old
+*.temp
+*.~*
+*.swp
+*.swo
+*.lock
+
+########### 📦 Other Systems ###########
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+.DS_Store
+Icon?
+._*
+
+########### 🤫 Git Conflict & Patch ###########
+
+*.orig
+*.rej
+*.patch
+*.diff
+
+########### 🧪 TEST folders / files ###########
+
+test/
+tests/
+__tests__/
+*.spec.js
+*.test.js
+*.test.py
+*.spec.ts
+*.snap
+
+########### ⚔️ Meme Projects / Fun Stuff ###########
+
+CrazyZombies/
+MemeModPvZ/
+PvZ-Meme-Edition/
+FunnyBot/
+UwU-Machine/
+ExplodingSunflower/
+AutoCowoncyMaster/
+
+########### 🧙‍♂️ Custom Personal Paths ###########
+
+MyMods/
+PersonalSkins/
+CustomPlants/
+BrokenExperiments/
+DontPushThis/
 
 ###########################################################
-# 🧪 Backup phần mềm khác
+# 🧠 REMINDER: .gitignore là bạn thân bạn. Hãy cẩn thận.
+# Push nhầm token, push nhầm log = Coi như công sức đi toi.
+# Muốn clean hơn nữa? Hỏi bro ChatGPT là xong!
 ###########################################################
-
-.DS_Store         # macOS
-Icon?             # macOS
-._*               # macOS
-*.swp             # Vim swap file
-*.bak             # Common backup
-*.tmp             # Common temp
-*.~               # Common autosave
-
