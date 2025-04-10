@@ -1,44 +1,47 @@
-# 🚀 .editorconfig Ultimate Edition - bởi Buddha-39797
+# ========================================================
+# 🛠 Buddha-39797 - Universal EditorConfig (English + Tiếng Việt)
+# Dành cho VSCode, Atom, Sublime, JetBrains, Notepad++,...
+# ========================================================
 
-# Dùng file này làm gốc, override toàn repo
 root = true
 
 [*]
-charset = utf-8               # Dùng UTF-8 toàn cõi
-indent_style = space          # Tab là quá khứ, space là chân ái
-indent_size = 2               # Nhỏ gọn, dễ nhìn
-end_of_line = lf              # Dùng LF cho chuẩn Unix
-insert_final_newline = true   # Thêm dòng trống ở cuối file (cho Git dễ diff)
-trim_trailing_whitespace = true  # Xoá khoảng trắng thừa
+# 🌐 Unicode toàn tập cho mọi ngôn ngữ
+charset = utf-8
 
-# 📄 Markdown cần giữ khoảng trắng
+# ⚖ Sử dụng 2 khoảng trắng (space) để indent
+indent_style = space
+indent_size = 2
+
+# 🧼 Dọn dẹp code: xoá khoảng trắng dư, dòng cuối cùng
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# -----------------------------------------------
+# 💬 Markdown: không xoá dấu cách để giữ format
 [*.md]
 trim_trailing_whitespace = false
 
-# 🐍 Python cần 4 space
+# 🐍 Python: PEP8 yêu cầu 4 space
 [*.py]
 indent_size = 4
 
-# ⚙️ C/C++ cũng 4 space cho dễ đọc
+# 🧩 C/C++ nên dùng 4 space cho dễ nhìn
+[*.c]
+indent_size = 4
+
 [*.cpp]
 indent_size = 4
 
 [*.h]
 indent_size = 4
 
-# 🧪 JSON dùng 2 space để dễ parse
-[*.json]
-indent_size = 2
-
-# 🧾 YAML strict theo chuẩn
-[*.yml]
-indent_size = 2
-
-[*.yaml]
-indent_size = 2
-
-# 🌐 HTML, JS, TS đồng bộ
+# 🌐 Web: HTML/CSS/JS
 [*.html]
+indent_size = 2
+
+[*.css]
 indent_size = 2
 
 [*.js]
@@ -47,18 +50,43 @@ indent_size = 2
 [*.ts]
 indent_size = 2
 
-# 📜 CSS nhẹ nhàng, dễ nhìn
-[*.css]
+[*.jsx]
 indent_size = 2
 
-# 🖥 Batch file dành riêng cho Windows
+[*.tsx]
+indent_size = 2
+
+# ⚙️ JSON: dùng 2 space mặc định
+[*.json]
+indent_size = 2
+
+# 📄 YAML cực kỳ nhạy cảm với tab, nên dùng 2 space
+[*.yml]
+indent_size = 2
+
+[*.yaml]
+indent_size = 2
+
+# 🛡️ Shell script
+[*.sh]
+indent_size = 2
+
+# 🐘 PHP
+[*.php]
+indent_size = 4
+
+# 🖥 Batch script Windows: dùng CRLF (chuẩn của Windows)
 [*.bat]
 end_of_line = crlf
 
-# ⚠️ Makefile chỉ chấp nhận tab
+# 🛠️ Makefile yêu cầu TAB, không dùng space
 [Makefile]
 indent_style = tab
 
-# 🧪 Tùy chỉnh cho shell script
-[*.sh]
-indent_size = 2
+# 🧪 Test files (không giới hạn ngôn ngữ)
+[*test*]
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# 🧙 Easter Egg: nếu ai đó mở file này bằng Notepad
+# sẽ thấy định dạng chỉnh chu và gọn gàng!
