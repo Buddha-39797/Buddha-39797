@@ -1,62 +1,84 @@
-# 🌍 Encoding, line endings và diff chuẩn toàn cầu
-* text=auto eol=lf
+# 🌏 Universal Encoding, Newlines, & Unicode rules
+# -----------------------------------------------
+# Tự động phát hiện và chuẩn hóa end-of-line (EOL)
+# Auto-normalize line endings, UTF-8 all the way, cross-platform safe!
+* text=auto
+* eol=lf
 * text working-tree-encoding=UTF-8
 
-# 📊 Hỗ trợ GitHub thống kê ngôn ngữ chính xác
-*.cs       linguist-language=C#
-*.cpp      linguist-language=C++
-*.h        linguist-language=C++
-*.py       linguist-language=Python
-*.js       linguist-language=JavaScript
-*.ts       linguist-language=TypeScript
-*.html     linguist-language=HTML
-*.css      linguist-language=CSS
-*.json     linguist-language=JSON
-*.xml      linguist-language=XML
-*.md       linguist-language=Markdown
-*.sh       linguist-language=Shell
-*.yml      linguist-language=YAML
-*.bat      linguist-language=Batchfile
+# 🧠 Improve GitHub language detection
+# -----------------------------------------------
+# Dạy GitHub biết file nào thuộc ngôn ngữ gì
+*.cs        linguist-language=C#
+*.cpp       linguist-language=C++
+*.h         linguist-language=C++
+*.py        linguist-language=Python
+*.js        linguist-language=JavaScript
+*.ts        linguist-language=TypeScript
+*.java      linguist-language=Java
+*.rb        linguist-language=Ruby
+*.html      linguist-language=HTML
+*.css       linguist-language=CSS
+*.json      linguist-language=JSON
+*.xml       linguist-language=XML
+*.md        linguist-language=Markdown
+*.yml       linguist-language=YAML
+*.yaml      linguist-language=YAML
+*.sh        linguist-language=Shell
+*.bat       linguist-language=Batchfile
 
-# 🧪 Ignore ngôn ngữ không chính (auto-gen, binary, vendor...)
-*.dll      linguist-generated
-*.exe      linguist-generated
-*.so       linguist-generated
-*.pdb      linguist-generated
-*.pyc      linguist-generated
-*.class    linguist-generated
-*.jar      linguist-generated
-*.min.js   linguist-generated
-*.map      linguist-generated
+# 📦 Bỏ qua thư viện, vendor & file auto-gen
+# -----------------------------------------------
+# Don’t count these files in GitHub stats
+node_modules/**     linguist-vendored
+vendor/**           linguist-vendored
+third_party/**      linguist-vendored
+lib/**              linguist-vendored
+*.min.js            linguist-generated
+*.map               linguist-generated
+*.pyc               linguist-generated
+*.class             linguist-generated
+*.dll               linguist-generated
+*.exe               linguist-generated
+*.so                linguist-generated
+*.zip               linguist-generated
 
-# 📦 Bỏ qua thư viện và file bên thứ ba
-node_modules/** linguist-vendored
-vendor/**        linguist-vendored
-third_party/**   linguist-vendored
-lib/**           linguist-vendored
-*.zip            linguist-vendored
-*.tar.gz         linguist-vendored
+# 📚 Mark documentation files
+# -----------------------------------------------
+README*             linguist-documentation
+LICENSE*            linguist-documentation
+CODE_OF_CONDUCT*    linguist-documentation
+CONTRIBUTING*       linguist-documentation
+SECURITY*           linguist-documentation
+CHANGELOG*          linguist-documentation
 
-# 📚 Đánh dấu tài liệu
-README*          linguist-documentation
-LICENSE*         linguist-documentation
-CONTRIBUTING*    linguist-documentation
-CODE_OF_CONDUCT* linguist-documentation
-SECURITY*        linguist-documentation
+# 💬 Custom diff for text-based files
+# -----------------------------------------------
+*.md      diff=markdown
+*.yml     diff=yaml
+*.yaml    diff=yaml
+*.json    diff=json
+*.html    diff=html
+*.xml     diff=xml
+*.ini     diff=ini
+*.cfg     diff=ini
 
-# 💬 Markdown, JSON, YAML xử lý diff đặc biệt
-*.md    diff=markdown
-*.json diff=json
-*.yml   diff=yaml
-*.yaml  diff=yaml
+# 📸 Don’t try to diff binary files
+# -----------------------------------------------
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.webp    binary
+*.ico     binary
+*.ttf     binary
+*.otf     binary
+*.mp3     binary
+*.mp4     binary
 
-# 📸 Hình ảnh, media không cần diff
-*.png binary
-*.jpg binary
-*.jpeg binary
-*.gif binary
-*.webp binary
-*.svg binary
-
-# ⚙️ Git thông minh hơn khi rename file
-* -diff
+# 🚫 Skip diff for unnecessary files
+# -----------------------------------------------
+# Useful for generated assets
+*.lock    -diff
+*.log     -diff
+*.bak     -diff
