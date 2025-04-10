@@ -1,0 +1,62 @@
+# 🌍 Encoding, line endings và diff chuẩn toàn cầu
+* text=auto eol=lf
+* text working-tree-encoding=UTF-8
+
+# 📊 Hỗ trợ GitHub thống kê ngôn ngữ chính xác
+*.cs       linguist-language=C#
+*.cpp      linguist-language=C++
+*.h        linguist-language=C++
+*.py       linguist-language=Python
+*.js       linguist-language=JavaScript
+*.ts       linguist-language=TypeScript
+*.html     linguist-language=HTML
+*.css      linguist-language=CSS
+*.json     linguist-language=JSON
+*.xml      linguist-language=XML
+*.md       linguist-language=Markdown
+*.sh       linguist-language=Shell
+*.yml      linguist-language=YAML
+*.bat      linguist-language=Batchfile
+
+# 🧪 Ignore ngôn ngữ không chính (auto-gen, binary, vendor...)
+*.dll      linguist-generated
+*.exe      linguist-generated
+*.so       linguist-generated
+*.pdb      linguist-generated
+*.pyc      linguist-generated
+*.class    linguist-generated
+*.jar      linguist-generated
+*.min.js   linguist-generated
+*.map      linguist-generated
+
+# 📦 Bỏ qua thư viện và file bên thứ ba
+node_modules/** linguist-vendored
+vendor/**        linguist-vendored
+third_party/**   linguist-vendored
+lib/**           linguist-vendored
+*.zip            linguist-vendored
+*.tar.gz         linguist-vendored
+
+# 📚 Đánh dấu tài liệu
+README*          linguist-documentation
+LICENSE*         linguist-documentation
+CONTRIBUTING*    linguist-documentation
+CODE_OF_CONDUCT* linguist-documentation
+SECURITY*        linguist-documentation
+
+# 💬 Markdown, JSON, YAML xử lý diff đặc biệt
+*.md    diff=markdown
+*.json diff=json
+*.yml   diff=yaml
+*.yaml  diff=yaml
+
+# 📸 Hình ảnh, media không cần diff
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.svg binary
+
+# ⚙️ Git thông minh hơn khi rename file
+* -diff
