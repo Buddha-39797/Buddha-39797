@@ -77,6 +77,11 @@
       <td><a href="https://github.com/Buddha-39797/PvZRHModified">🔎 Xem ngay</a></td>
     </tr>
     <tr>
+      <td><strong>Buddha-39797</strong></td>
+      <td>Buddha-39797 – nơi bắt đầu mọi cuộc hành trình từ mod PvZ đến huyền thoại GitHub. Ở đây, mỗi dòng code đều có một câu chuyện – và mỗi commit là một bước tiến tới đỉnh cao! 🚀.</td>
+      <td><a href="https://github.com/Buddha-39797/PvZRHModified">🔎 Xem ngay</a></td>
+    </tr>
+    <tr>
       <td><strong>PvZRH-Fusion-Plants-Zombies-And-Hammers-Fanmade</strong></td>
       <td>Tổng hợp các plants, zombies và búa fanmade cực chất được các Developer phát triển như: <strong>Infinite75</strong>, <strong>LibraHp</strong> và được Buddha-39797 tổng hợp và chọn lọc cho PvZRH Fusion.</td>
       <td>🔒 <strong>Coming soon...</strong> 🧠<br><sub><i>Project đang được Buddha ủ mưu cực mạnh 😤</i></sub></td>
