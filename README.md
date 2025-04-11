@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Buddha-39797 - Hành trình từ lớp 5 đến huyền thoại GitHub 🚀</h1>
 
 <p align="center">
-  <img src="https://buddha-39797.github.io/readme-typing-svg.app?font=Fira+Code&pause=1000&center=true&width=600&lines=🚀+Từ+lớp+5+đến+GitHub+Legend;🧠+Modder+PvZRH+có+tâm;⚔️+Chiến+OwO+Bot+cháy+máy;⭐+Fork+đến+khi+nào+hết+sao" alt="Typing SVG" />
+  <img src="https://buddha-39797.github.io/readme-typing-svg/?font=Fira+Code&size=25&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔥+PVZ+Modder+lớp+5+đỉnh+cao;🌱+Fork+cháy+máy+GitHub;⭐+Fan+cuồng+OwO+Bot" alt="Typing SVG" />
 </p>
 
 
