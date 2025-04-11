@@ -1,6 +1,11 @@
 <h1 align="center">🚀 Buddha-39797 - Hành trình từ lớp 5 đến huyền thoại GitHub 🚀</h1>
 
 <p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&width=435&lines=🌱+Code+vì+đam+mê;🔥+PvZ+Modder+tương+lai;🎮+Fan+cứng+OwO+Bot;⭐+Fork+cho+đến+khi+nào+hết+sao" alt="Typing SVG" />
+ </p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buddha-39797&style=for-the-badge&color=ff69b4&label=VISITOR+COUNT" alt="visitors" />
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
 </p>
