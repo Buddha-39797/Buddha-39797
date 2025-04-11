@@ -147,8 +147,10 @@ timeline
 
 ---
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Joke of the day" />
-</p>
-
 <p align="center"><b>🌟 Cảm ơn bạn đã xem đến đây! Đừng quên thả sao ⭐ nếu bạn thích nha!</b></p>
+
+<p align="center">
+  <a href="https://github.com/Buddha-39797">
+    <img src="https://img.shields.io/badge/%E2%AD%90-Follow%20đi%2C%20PvZ%20Fan%20ơi!-yellow?style=for-the-badge&logo=github" />
+  </a>
+</p>
