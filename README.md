@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔥+PVZ+Modder+lớp+5+đỉnh+cao;🌱+Fork+cháy+máy+GitHub;⭐+Fan+cuồng+OwO+Bot" alt="Typing SVG" />
 </p>
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buddha-39797&style=for-the-badge&color=ff69b4&label=VISITOR+COUNT" alt="visitors" />
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
