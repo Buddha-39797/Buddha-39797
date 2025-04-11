@@ -58,22 +58,22 @@
   <tbody>
     <tr>
       <td><strong>PVZRHCustomization</strong></td>
-      <td>Thêm các Mod plants mới và được làm bởi <strong>Infinite75</strong>.</td>
+      <td>Thêm các Mod plants, Mod Zombies mới, hoạt động trong <strong>PvZ RH Fusion</strong> và được làm bởi <strong>Infinite75</strong>.</td>
       <td><a href="https://github.com/Buddha-39797/PVZRHCustomization">🔎 Xem ngay</a></td>
     </tr>
     <tr>
       <td><strong>PVZ-Menu-Cheat</strong></td>
-      <td>Cheat cho PvZ Fusion: sửa bộ nhớ trò chơi để mở tính năng ẩn, viết bằng C++ bởi <strong>yurikia</strong>. 😝</td>
+      <td>Menu Cheat cho <strong>PvZ RH Fusion</strong>: sửa bộ nhớ trò chơi để mở tính năng ẩn, viết bằng C++ bởi <strong>yurikia</strong>. 😝</td>
       <td><a href="https://github.com/Buddha-39797/PVZ-Menu-Cheat">🔎 Xem ngay</a></td>
     </tr>
     <tr>
       <td><strong>PVZRH-Tools</strong></td>
-      <td>Tools hỗ trợ chơi PvZ Fusion dễ hơn, made by <strong>Infinite75</strong>.</td>
+      <td>Tools hỗ trợ chơi <strong>PvZ RH Fusion</strong> dễ hơn, made by <strong>Infinite75</strong>.</td>
       <td><a href="https://github.com/Buddha-39797/PVZRH-Tools">🔎 Xem ngay</a></td>
     </tr>
     <tr>
       <td><strong>PvZRHModified</strong></td>
-      <td>Mod menu giúp unlock nhiều thứ hay ho trong PvZRH Fusion, code bởi <strong>LibraHp</strong>. 🤩</td>
+      <td>Mod menu giúp unlock nhiều thứ hay ho, mới lạ trong <strong>PvZ RH Fusion</strong>, code bởi <strong>LibraHp</strong>. 🤩</td>
       <td><a href="https://github.com/Buddha-39797/PvZRHModified">🔎 Xem ngay</a></td>
     </tr>
     <tr>
