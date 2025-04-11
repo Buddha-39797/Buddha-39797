@@ -150,7 +150,5 @@ timeline
 <p align="center"><b>🌟 Cảm ơn bạn đã xem đến đây! Đừng quên thả sao ⭐ nếu bạn thích nha!</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Buddha-39797&style=for-the-badge&color=ff69b4&label=VISITOR+COUNT" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
   <img src="https://img.shields.io/badge/🔥_FULL_STACK_-_GITHUB_PRO-red?style=for-the-badge&logo=github" />
 </p>
