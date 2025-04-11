@@ -81,7 +81,7 @@
       <td>⚡ Repo gốc gác của huyền thoại PvZ.
           🧠 Mỗi commit = 1% IQ tăng!
           💾 Fork là đam mê, bug là bạn thân 😎.</td>
-      <td><a href="https://github.com/Buddha-39797/PvZRHModified">🔎 Xem ngay</a></td>
+      <td><a href="https://github.com/Buddha-39797/Buddha-39797">🔎 Xem ngay</a></td>
     </tr>
     <tr>
       <td><strong>PvZRH-Fusion-Plants-Zombies-And-Hammers-Fanmade</strong></td>
