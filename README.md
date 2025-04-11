@@ -1,9 +1,6 @@
 <h1 align="center">🚀 Buddha-39797 - Hành trình từ lớp 5 đến huyền thoại GitHub 🚀</h1>
 
 <p align="center">
-   <img src="https://camo.githubusercontent.com/18dd4f46b5cc8f6e756ee76b3c90216a029ded1a7741c5a4baf4eb5c940c37c7/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652670617573653d313030302663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d57656c636f6d652b746f2b7468652b50765a52482b4d6f642b556e697665727365213b506c616e74732c2b5a6f6d626965732b2532362b48616d6d6572732c2b416c6c2b46616e6d616465213b4f6e652b5265706f2b746f2b4d6f642b5468656d2b416c6c212b254630253946253934254135font=Fira+Code&duration=3500&pause=1000&center=true&width=435&lines=🌱+Code+vì+đam+mê;🔥+PvZ+Modder+tương+lai;🎮+Fan+cứng+OwO+Bot;⭐+Fork+cho+đến+khi+nào+hết+sao"
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buddha-39797&style=for-the-badge&color=ff69b4&label=VISITOR+COUNT" alt="visitors" />
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
 </p>
