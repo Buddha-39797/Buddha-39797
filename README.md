@@ -78,7 +78,9 @@
     </tr>
     <tr>
       <td><strong>Buddha-39797</strong></td>
-      <td>Buddha-39797 – nơi bắt đầu mọi cuộc hành trình từ mod PvZ đến huyền thoại GitHub. Ở đây, mỗi dòng code đều có một câu chuyện – và mỗi commit là một bước tiến tới đỉnh cao! 🚀.</td>
+      <td>⚡ Repo gốc gác của huyền thoại PvZ.
+🧠 Mỗi commit = 1% IQ tăng!
+💾 Fork là đam mê, bug là bạn thân 😎.</td>
       <td><a href="https://github.com/Buddha-39797/PvZRHModified">🔎 Xem ngay</a></td>
     </tr>
     <tr>
