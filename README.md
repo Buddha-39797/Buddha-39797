@@ -1,8 +1,9 @@
 <h1 align="center">🚀 Buddha-39797 - Hành trình từ lớp 5 đến huyền thoại GitHub 🚀</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Buddha-39797/readme-assets/main/typing.gif" alt="Typing Animation" />
+  <img src="https://raw.githubusercontent.com/Buddha-39797/Buddha-39797/main/assets/typing.svg" alt="Typing animation" />
 </p>
+
 
 
 
