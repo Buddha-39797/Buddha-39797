@@ -78,14 +78,14 @@
     </tr>
     <tr>
       <td><strong>Buddha-39797</strong></td>
-      <td>⚡ Repo gốc gác của huyền thoại PvZ.
+      <td>⚡ Repo gốc gác của huyền thoại <strong>PvZ</strong>.
           🧠 Mỗi commit = 1% IQ tăng!
           💾 Fork là đam mê, bug là bạn thân 😎.</td>
       <td><a href="https://github.com/Buddha-39797/Buddha-39797">🔎 Xem ngay</a></td>
     </tr>
     <tr>
       <td><strong>PvZRH-Fusion-Plants-Zombies-And-Hammers-Fanmade</strong></td>
-      <td>Tổng hợp các plants, zombies và búa fanmade cực chất được các Developer phát triển như: <strong>Infinite75</strong>, <strong>LibraHp,...</strong> và được <strong>Buddha-39797</strong> tổng hợp và chọn lọc cho PvZRH Fusion.</td>
+      <td>Tổng hợp các plants, zombies và búa fanmade cực chất được các Developer phát triển như: <strong>Infinite75</strong>, <strong>LibraHp,...</strong> và được <strong>Buddha-39797</strong> tổng hợp và chọn lọc cho <strong>PvZ RH Fusion</strong>.</td>
       <td>🔒 <strong>Coming soon...</strong> 🧠<br><sub><i>Project đang được Buddha ủ mưu cực mạnh 😤</i></sub></td>
     </tr>
   </tbody>
