@@ -79,8 +79,8 @@
     <tr>
       <td><strong>Buddha-39797</strong></td>
       <td>⚡ Repo gốc gác của huyền thoại PvZ.
-🧠 Mỗi commit = 1% IQ tăng!
-💾 Fork là đam mê, bug là bạn thân 😎.</td>
+          🧠 Mỗi commit = 1% IQ tăng!
+          💾 Fork là đam mê, bug là bạn thân 😎.</td>
       <td><a href="https://github.com/Buddha-39797/PvZRHModified">🔎 Xem ngay</a></td>
     </tr>
     <tr>
