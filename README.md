@@ -1,5 +1,4 @@
 <h1 align="center">🚀 Buddha-39797 - Hành trình từ lớp 5 đến huyền thoại của GitHub 🚀</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B1+Code+v%C3%AC+%C4%91am+m%C3%AA;%F0%9F%94%A5+PvZ+Modder+t%C6%B0%C6%A1ng+lai;%F0%9F%8E%AE+Fan+c%E1%BB%A9ng+OwO+Bot;%E2%AD%90+Fork+cho+%C4%91%E1%BA%BFn+khi+n%C3%A0o+h%E1%BA%BFt+sao" />
 </p>
@@ -18,6 +17,8 @@
 - 🔧 Fork mọi repo PvZ nhìn thấy
 - 🐄 310,432 Cowoncy – top 11 server "Hầm ngục tối tăm"  
 - 🤖 Fan cuồng OwO Bot & code automation
+-⚡ Mình không đếm commit… Mình đếm truyền thuyết.
+-🔥 Buddha-39797 – Commit Master chính hiệu từ lớp 5.
 
 ---
 
