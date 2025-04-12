@@ -72,12 +72,12 @@
     <tr>
       <td><strong>PVZRH-Tools</strong></td>
       <td>Tools hỗ trợ chơi <strong>PvZ RH Fusion</strong> dễ hơn, made by <strong>Infinite75</strong>.</td>
-      <td><a href="https://github.com/Buddha-39797/PVZRH-Tools">🔎 Xem ngay</a></td>
+      <td><a href="https://github.com/Buddha-39797/PVZRHTools">🔎 Xem ngay</a></td>
     </tr>
     <tr>
       <td><strong>PvZRHModified</strong></td>
       <td>Mod menu giúp unlock nhiều thứ hay ho, mới lạ trong <strong>PvZ RH Fusion</strong>, code bởi <strong>LibraHp</strong>. 🤩</td>
-      <td><a href="https://github.com/Buddha-39797/PvZRHModified">🔎 Xem ngay</a></td>
+      <td><a href="https://github.com/Buddha-39797/PvZRHModfied">🔎 Xem ngay</a></td>
     </tr>
     <tr>
       <td><strong>Buddha-39797</strong></td>
