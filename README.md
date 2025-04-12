@@ -137,10 +137,6 @@ timeline
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-<p align="center">
-  <p align="center">
-  <img src="https://i.imgur.com/Da1KBBV.png" width="400"/>
-</p>
 <p align="center"><i>"Tui commit nhiều tới nỗi GitHub cũng phải mỏi tay đếm!" 😎</i></p>
 </p>
 
