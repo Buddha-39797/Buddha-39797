@@ -45,6 +45,7 @@
 
 > “Trẻ em cũng có thể lập trình ra thế giới!” – *Buddha-39797*  
 > “Mod PvZ là đam mê, còn git push là thở” – *Bro said that*
+> “<p align="center"><i>"Tui commit nhiều tới nỗi GitHub cũng phải mỏi tay đếm!" 😎</i></p>
 
 ---
 
