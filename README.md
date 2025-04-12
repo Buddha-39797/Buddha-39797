@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buddha-39797&style=for-the-badge&color=ff69b4&label=VISITOR+COUNT" alt="visitors" />
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/badge/🧠_Commit_Master-139_and_counting-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🧠_Commit_Master-140_and_counting-orange?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/🎉_150_Commits_Huyền_Thoại_-_Buddha--39797-success?style=for-the-badge&logo=github" />
@@ -88,9 +88,9 @@
     </tr>
     <tr>
       <td><strong>Buddha-39797</strong></td>
-      <td>⚡ Repo gốc gác của huyền thoại <strong>PvZ</strong>.
-          🧠 Mỗi commit = 1% IQ tăng!
-          💾 Fork là đam mê, bug là bạn thân 😎.</td>
+      <td><p align="center">⚡ Repo gốc gác của huyền thoại <strong>PvZ</strong>.
+          <p align="center">🧠 Mỗi commit = 1% IQ tăng!
+          <p align="center">💾 Fork là đam mê, bug là bạn thân 😎.</td>
       <td><a href="https://github.com/Buddha-39797/Buddha-39797">🔎 Xem ngay</a></td>
     </tr>
     <tr>
@@ -151,7 +151,7 @@ timeline
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="250" />
 </p>
 <p align="center">
-  <i>🔧 Tui chỉ mod nhẹ thôi mà... 💥 | Commit 132 là lúc tui đạt cảnh giới!</i>
+  <i>🔧 Tui chỉ mod nhẹ thôi mà... 💥 | Commit 140 là lúc tui đạt cảnh giới!</i>
 </p>
 
 <!-- Hình thứ ba cũng ở giữa và cùng kích thước -->
