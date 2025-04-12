@@ -63,7 +63,7 @@
     <tr>
       <td><strong>PVZRHCustomization</strong></td>
       <td>Thêm các Mod plants, Mod Zombies mới, hoạt động trong <strong>PvZ RH Fusion</strong> và được làm bởi <strong>Infinite75</strong>.</td>
-      <td><a href="https://github.com/Buddha-39797/PVZRHCustomization"> <p align="center"> 🔎 Xem ngay</a></td>
+      <td><a href="https://github.com/Buddha-39797/PVZRHCustomization">🔎 Xem ngay</a> <p align="center"> </td>
     </tr>
     <tr>
       <td><strong>PVZ-Menu-Cheat</strong></td>
