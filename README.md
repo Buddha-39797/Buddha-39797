@@ -29,6 +29,7 @@
 <p align="center">
 <!-- Streak -->
  <img src="https://streak-stats.demolab.com?user=Buddha-39797&theme=tokyonight&fire=FF6A00&ring=FFB000&currStreakLabel=FF6A00" />
+<p align="center"><i>"Tui commit nhiều tới nỗi GitHub cũng phải mỏi tay đếm!" 😎</i></p>
 
 ---
 
@@ -45,7 +46,6 @@
 
 > “Trẻ em cũng có thể lập trình ra thế giới!” – *Buddha-39797*  
 > “Mod PvZ là đam mê, còn git push là thở” – *Bro said that*
-> “<p align="center"><i>"Tui commit nhiều tới nỗi GitHub cũng phải mỏi tay đếm!" 😎</i></p>
 
 ---
 
@@ -138,7 +138,6 @@ timeline
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-<p align="center"><i>"Tui commit nhiều tới nỗi GitHub cũng phải mỏi tay đếm!" 😎</i></p>
 </p>
 
 ---
