@@ -138,9 +138,10 @@ timeline
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 <p align="center">
-  <img src="https://i.imgur.com/6d8JDwX.jpg" width="350"/>
+  <p align="center">
+  <img src="https://i.imgur.com/Da1KBBV.png" width="400"/>
 </p>
-<sub align="center"><i>"Cậu vừa mới push 1 lần? Tôi push 112 lần rồi." – Commit Master 😎</i></sub>
+<p align="center"><i>"Tui commit nhiều tới nỗi GitHub cũng phải mỏi tay đếm!" 😎</i></p>
 </p>
 
 ---
