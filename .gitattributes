@@ -8,7 +8,7 @@
 
 # 🧠 Improve GitHub language detection
 # -----------------------------------------------
-# Dạy GitHub biết file nào thuộc ngôn ngữ gì
+# Dạy GitHub biết file nào thuộc ngôn ngữ gì?
 *.cs        linguist-language=C#
 *.cpp       linguist-language=C++
 *.h         linguist-language=C++
