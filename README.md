@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buddha-39797&style=for-the-badge&color=ff69b4&label=VISITOR+COUNT" alt="visitors" />
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/badge/🧠_Commit_Master-145_and_counting-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🧠_Commit_Master-146_and_counting-orange?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/🎉_150_Commits_Huyền_Thoại_-_Buddha--39797-success?style=for-the-badge&logo=github" />
@@ -21,7 +21,7 @@
 - 🧠 11 tuổi, học lớp 5 – nhưng không phải "trẻ trâu code dạo" đâu nhé!
 - 💻 Dân code PvZ chính hiệu, chuyên săn file `.dll`
 - 🔧 Fork mọi repo PvZ nhìn thấy
-- 🐄 310,432 Cowoncy – top 11 server "Hầm ngục tối tăm"  
+- 🐄 702,849 Cowoncy – top 5 server "Hầm ngục tối tăm"  
 - 🤖 Fan cuồng OwO Bot & code automation
 
 ---
@@ -151,7 +151,7 @@ timeline
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="250" />
 </p>
 <p align="center">
-  <i>🔧 Tui chỉ mod nhẹ thôi mà... 💥 | Commit 145 là lúc tui đạt cảnh giới!</i>
+  <i>🔧 Tui chỉ mod nhẹ thôi mà... 💥 | Commit 146 là lúc tui đạt cảnh giới!</i>
 </p>
 
 <!-- Hình thứ ba cũng ở giữa và cùng kích thước -->
