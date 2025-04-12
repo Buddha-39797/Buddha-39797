@@ -139,6 +139,21 @@ timeline
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
+<!-- Hai hình đầu căn giữa, cùng kích thước -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYKDr2K6q8EokNi/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="250" />
+</p>
+<p align="center">
+  <i>🔧 Tui chỉ mod nhẹ thôi mà... 💥 | Commit 101 là lúc tui đạt cảnh giới!</i>
+</p>
+
+<!-- Hình thứ ba cũng ở giữa và cùng kích thước -->
+<p align="center">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="250" />
+  <br/>
+  <i>🌟 Một follow thôi cũng làm tim tui đập mạnh hơn (thật đó 😳)</i>
+</p>
 
 ---
 
