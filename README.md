@@ -29,7 +29,7 @@
 <p align="center">
 <!-- Streak -->
  <img src="https://streak-stats.demolab.com?user=Buddha-39797&theme=tokyonight&fire=FF6A00&ring=FFB000&currStreakLabel=FF6A00" />
-<p align="center"><i>"Tui commit nhiều tới nỗi GitHub cũng phải mỏi tay đếm!" 😎</i></p>
+<p align="center"><i>"Tui commit cái repository này nhiều tới nỗi GitHub cũng phải mỏi tay đếm!" 😎</i></p>
 
 ---
 
