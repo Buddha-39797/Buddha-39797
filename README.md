@@ -33,9 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddha-39797&layout=donut&theme=dracula" />
 </p>
 <p align="center">
-<!-- Streak -->
- <img src="https://streak-stats.demolab.com?user=Buddha-39797&theme=tokyonight&fire=FF6A00&ring=FFB000&currStreakLabel=FF6A00" />
-<p align="center"><i>"Tui commit cái repository này nhiều tới nỗi GitHub cũng phải mỏi tay đếm!" 😎</i></p>
 
 ---
 
