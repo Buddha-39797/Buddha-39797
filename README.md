@@ -80,10 +80,6 @@
     </tr>
     <tr>
       <td><strong>PvZRHModified</strong></td>
-      <td>Mod menu giúp unlock nhiều thứ hay ho, mới lạ trong <strong>PvZ RH Fusion</strong>, code bởi <strong>LibraHp</strong> <strong>( LƯU Ý: ĐỪNG ẤN VÔ LINK NỮA VÌ Libra_Hp ĐÃ BỊ GITHUB BAN 
-      )</strong>. 🤩</td>
-      <td><a href="https://github.com/Buddha-39797/PvZRHModfied">🔎 Xem ngay</a></td>
-    </tr>
     <tr>
       <td><strong>Buddha-39797</strong></td>
       <td><p align="center">⚡ Repo gốc gác của huyền thoại <strong>PvZ</strong>.
