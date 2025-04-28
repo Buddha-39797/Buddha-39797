@@ -79,7 +79,6 @@
       <td><a href="https://github.com/Buddha-39797/PVZRHTools">🔎 Xem ngay</a></td>
     </tr>
     <tr>
-      <td><strong>PvZRHModified</strong></td>
     <tr>
       <td><strong>Buddha-39797</strong></td>
       <td><p align="center">⚡ Repo gốc gác của huyền thoại <strong>PvZ</strong>.
