@@ -51,6 +51,9 @@ CODE_OF_CONDUCT*    linguist-documentation
 CONTRIBUTING*       linguist-documentation
 SECURITY*           linguist-documentation
 CHANGELOG*          linguist-documentation
+GITIGNORE*          linguist-documentation
+GITATTRIBUTES*      linguist-documentation
+EDITCONFIG*         linguist-documentation
 
 # 💬 Custom diff for text-based files
 # -----------------------------------------------
