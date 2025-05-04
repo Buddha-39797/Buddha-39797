@@ -24,6 +24,7 @@ winhttp.dll
 *.old
 *.tmp
 *.temp
+*.json
 
 # Các file `.dll`, `.exe`, `.pdb` thường là bản biên dịch, đừng push
 *.dll
