@@ -76,7 +76,7 @@
       <td><a href="https://github.com/Buddha-39797/Buddha-39797">🔎 Xem ngay</a></td>
       <tr>
       <td><strong>GimkitCheat</strong></td>
-      <td>Nó là một Repository về Gimkit, giúp bạn có thể dễ dàng để chiến thắng mọi người và được làm bởi <strong>The Lazy Squid</strong>.</td>
+      <td>Nó là một Repository về <strong>Gimkit</strong>, giúp bạn có thể dễ dàng để chiến thắng mọi người và được làm bởi <strong>The Lazy Squid</strong>.</td>
       <td><a href="https://github.com/Buddha-39797/GimkitCheat">🔎 Xem ngay</a></td>
     </tr>
     <tr>
