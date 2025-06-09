@@ -74,6 +74,10 @@
           <p align="center">🧠 Mỗi commit = 1% IQ tăng!
           <p align="center">💾 Fork là đam mê, bug là bạn thân 😎.</td>
       <td><a href="https://github.com/Buddha-39797/Buddha-39797">🔎 Xem ngay</a></td>
+      <tr>
+      <td><strong>GimkitCheat</strong></td>
+      <td>Nó là một Repository về Gimkit, giúp bạn có thể dễ dàng để chiến thắng mọi người và được làm bởi <strong>The Lazy Squid</strong>.</td>
+      <td><a href="https://github.com/Buddha-39797/GimkitCheat">🔎 Xem ngay</a></td>
     </tr>
     <tr>
   </tbody>
