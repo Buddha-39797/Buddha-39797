@@ -78,6 +78,11 @@
       <td><strong>GimkitCheat</strong></td>
       <td>Nó là một Repository về <strong>Gimkit</strong>, giúp bạn có thể dễ dàng để chiến thắng mọi người và được làm bởi <strong>The Lazy Squid</strong>.</td>
       <td><a href="https://github.com/Buddha-39797/GimkitCheat">🔎 Xem ngay</a></td>
+        </tr>
+       <tr>
+        <td><strong>GimkitSpawner</strong></td>
+      <td>Nó là một Repository về <strong>Gimkit</strong>, giúp bạn có thể cho rất nhiều bot <strong>( LÀ BOT, KHÔNG PHẢI NGƯỜI CHƠI THẬT SỰ )</strong>, nó sẽ gây lag cho server đó và được làm bởi <strong>The Lazy Squid</strong>.</td>
+      <td><a href="https://github.com/Buddha-39797/GimkitSpawner">🔎 Xem ngay</a></td>
     </tr>
     <tr>
   </tbody>
