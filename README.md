@@ -6,10 +6,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buddha-39797&style=for-the-badge&color=ff69b4&label=VISITOR+COUNT" alt="visitors" />
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/badge/🧠_Commit_Master-160_and_counting-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🧠_Commit_Master-165_and_counting-orange?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🎉_160_Commits_Huyền_Thoại_-_Buddha--39797-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🎉_165_Commits_Huyền_Thoại_-_Buddha--39797-success?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="300" />
@@ -83,6 +83,11 @@
         <td><strong>GimkitSpawner</strong></td>
       <td>Nó là một Repository về <strong>Gimkit</strong>, giúp bạn có thể cho rất nhiều bot <strong>( LÀ BOT, KHÔNG PHẢI NGƯỜI CHƠI THẬT SỰ )</strong>, nó sẽ gây lag cho server đó và được làm bởi <strong>The Lazy Squid</strong>.</td>
       <td><a href="https://github.com/Buddha-39797/GimkitSpawner">🔎 Xem ngay</a></td>
+         </tr>
+       <tr>
+        <td><strong>QuizletLiveCheat</strong></td>
+      <td>Nó là một Repository về <strong>Quizlet</strong>, giúp bạn có thể chiến thắng Quizlet Live một cách dễ dàng và giành Top 1 rất dễ và được làm bởi <strong>The Lazy Squid</strong>.</td>
+      <td><a href="https://github.com/Buddha-39797/QuizletLiveCheat">🔎 Xem ngay</a></td>
     </tr>
     <tr>
   </tbody>
@@ -138,7 +143,7 @@ timeline
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="250" />
 </p>
 <p align="center">
-  <i>🔧 Tui chỉ mod nhẹ thôi mà... 💥 | Commit 160 là lúc tui đạt cảnh giới!</i>
+  <i>🔧 Tui chỉ mod nhẹ thôi mà... 💥 | Commit 165 là lúc tui đạt cảnh giới!</i>
 </p>
 
 <!-- Hình thứ ba cũng ở giữa và cùng kích thước -->
