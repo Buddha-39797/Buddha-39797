@@ -64,21 +64,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>PVZRHCustomization</strong></td>
-      <td>Thêm các Mod plants, Mod Zombies mới, hoạt động trong <strong>PvZ RH Fusion</strong> và được làm bởi <strong>Infinite75</strong>.</td>
-      <td><a href="https://github.com/Buddha-39797/PVZRHCustomization">🔎 Xem ngay</a></td>
+      <td><strong>readme-typing-svg</strong></td>
+      <td>Nó là một Repository về typing svg và được làm bởi <strong>DenverCoder1</strong>.</td>
+      <td><a href="https://github.com/Buddha-39797/readme-typing-svg">🔎 Xem ngay</a></td>
     </tr>
-    <tr>
-      <td><strong>PVZ-Menu-Cheat</strong></td>
-      <td>Menu Cheat cho <strong>PvZ RH Fusion</strong>: sửa bộ nhớ trò chơi để mở tính năng ẩn, viết bằng C++ bởi <strong>yurikia</strong>. 😝</td>
-      <td><a href="https://github.com/Buddha-39797/PVZ-Menu-Cheat">🔎 Xem ngay</a></td>
-    </tr>
-    <tr>
-      <td><strong>PVZRH-Tools</strong></td>
-      <td>Tools hỗ trợ chơi <strong>PvZ RH Fusion</strong> dễ hơn, made by <strong>Infinite75</strong>.</td>
-      <td><a href="https://github.com/Buddha-39797/PVZRHTools">🔎 Xem ngay</a></td>
-    </tr>
-    <tr>
     <tr>
       <td><strong>Buddha-39797</strong></td>
       <td><p align="center">⚡ Repo gốc gác của huyền thoại <strong>PvZ</strong>.
@@ -87,10 +76,6 @@
       <td><a href="https://github.com/Buddha-39797/Buddha-39797">🔎 Xem ngay</a></td>
     </tr>
     <tr>
-      <td><strong>PvZRH-Fusion-Plants-Zombies-And-Hammers-Fanmade</strong></td>
-      <td>Tổng hợp các plants, zombies và búa fanmade cực chất được các Developer phát triển như: <strong>Infinite75</strong>, <strong>LibraHp,...</strong> và được <strong>Buddha-39797</strong> tổng hợp và chọn lọc cho <strong>PvZ RH Fusion</strong>.</td>
-      <td>🔒 <strong>Coming soon...</strong> 🧠<br><sub><i>Project đang được <strong>Buddha-39797</strong> ủ mưu cực mạnh 😤</i></sub></td>
-    </tr>
   </tbody>
 </table>
 
