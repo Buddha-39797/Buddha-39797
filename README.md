@@ -6,10 +6,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buddha-39797&style=for-the-badge&color=ff69b4&label=VISITOR+COUNT" alt="visitors" />
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/badge/🧠_Commit_Master-165_and_counting-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🧠_Commit_Master-170_and_counting-orange?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🎉_165_Commits_Huyền_Thoại_-_Buddha--39797-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🎉_170_Commits_Huyền_Thoại_-_Buddha--39797-success?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="300" />
@@ -18,11 +18,12 @@
 
 
 ## 🎮 Ai đây? Chính là mình nè!
-- 🧠 11 tuổi, học lớp 5 – nhưng không phải "trẻ trâu code dạo" đâu nhé!
+- 🧠 12 tuổi, học lớp 6 – nhưng không phải "trẻ trâu code dạo" đâu nhé!
 - 💻 Dân code PvZ chính hiệu, chuyên săn file `.dll`
 - 🔧 Fork mọi repo PvZ nhìn thấy
 - 🐄 702,849 Cowoncy – top 5 server "Hầm ngục tối tăm"  
 - 🤖 Fan cuồng OwO Bot & code automation
+- ⚽ Fan cuồng cầu thủ nổi tiếng nhất thế giới: Cristiano Ronaldo
 
 ---
 
