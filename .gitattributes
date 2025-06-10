@@ -53,7 +53,7 @@ SECURITY*           linguist-documentation
 CHANGELOG*          linguist-documentation
 GITIGNORE*          linguist-documentation
 GITATTRIBUTES*      linguist-documentation
-EDITORCONFIG*         linguist-documentation
+EDITORCONFIG*       linguist-documentation
 
 # 💬 Custom diff for text-based files
 # -----------------------------------------------
