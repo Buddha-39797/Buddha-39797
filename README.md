@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Buddha-39797 - Hành trình từ lớp 5 đến huyền thoại của GitHub 🚀</h1>
+<h1 align="center">🚀 Buddha-39797 - Hành trình từ lớp 6 đến huyền thoại của GitHub 🚀</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B1+Code+v%C3%AC+%C4%91am+m%C3%AA;%F0%9F%94%A5+PvZ+Modder+t%C6%B0%C6%A1ng+lai;%F0%9F%8E%AE+Fan+c%E1%BB%A9ng+OwO+Bot;%E2%AD%90+Fork+cho+%C4%91%E1%BA%BFn+khi+n%C3%A0o+h%E1%BA%BFt+sao" />
 </p>
@@ -6,10 +6,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buddha-39797&style=for-the-badge&color=ff69b4&label=VISITOR+COUNT" alt="visitors" />
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/badge/🧠_Commit_Master-170_and_counting-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🧠_Commit_Master-171_and_counting-orange?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🎉_170_Commits_Huyền_Thoại_-_Buddha--39797-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🎉_171_Commits_Huyền_Thoại_-_Buddha--39797-success?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="300" />
@@ -144,7 +144,7 @@ timeline
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="250" />
 </p>
 <p align="center">
-  <i>🔧 Tui chỉ mod nhẹ thôi mà... 💥 | Commit 165 là lúc tui đạt cảnh giới!</i>
+  <i>🔧 Tui chỉ mod nhẹ thôi mà... 💥 | Commit 171 là lúc tui đạt cảnh giới!</i>
 </p>
 
 <!-- Hình thứ ba cũng ở giữa và cùng kích thước -->
