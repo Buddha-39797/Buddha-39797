@@ -6,10 +6,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buddha-39797&style=for-the-badge&color=ff69b4&label=VISITOR+COUNT" alt="visitors" />
   <img src="https://img.shields.io/github/followers/Buddha-39797?style=for-the-badge&color=blueviolet" alt="followers" />
-  <img src="https://img.shields.io/badge/🧠_Commit_Master-177_and_counting-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🧠_Commit_Master-178_and_counting-orange?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🎉_177_Commits_Huyền_Thoại_-_Buddha--39797-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🎉_178_Commits_Huyền_Thoại_-_Buddha--39797-success?style=for-the-badge&logo=github" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="300" />
