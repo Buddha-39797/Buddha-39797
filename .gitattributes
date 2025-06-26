@@ -42,6 +42,7 @@ lib/**              linguist-vendored
 *.exe               linguist-generated
 *.so                linguist-generated
 *.zip               linguist-generated
+*.iso               linguist-generated
 
 # 📚 Mark documentation files
 # -----------------------------------------------
